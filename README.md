@@ -9,19 +9,28 @@ This board is designed to interface with dot2, my preffered software, but it cou
 I made this project due to my interest in these technologies and their applications with timecodes to create visually immersive lightshows that contribute to the overall stage presence of a performer. I look forward to testing out this board on my school's lighting rig and potentially using it for smaller 'temporary stage' productions.
 
 ## PCB Screenshots:
+
+The keyswitch matrix used in the project.
 <img width="868" height="572" alt="image" src="https://github.com/user-attachments/assets/14ff0cf9-003d-4d29-a7e8-5ca38b7310b5" />
+
+Schematic for the faders.
 <img width="927" height="390" alt="image" src="https://github.com/user-attachments/assets/fb917773-8e17-4710-a75e-377c7397a23f" />
+
+The overall view of the 2 Layer PCB with routing.
 <img width="1367" height="678" alt="image" src="https://github.com/user-attachments/assets/bcbc0b70-2228-42ac-90ed-4e2ce6abb3ca" />
 
 ## CAD Screenshots:
+
+The overall view of the top layer CAD.
 <img width="982" height="542" alt="image" src="https://github.com/user-attachments/assets/33a828cf-6dfe-45f4-a08d-358a574b8b92" />
+
+The side pieces used to put the top of the board on an angle to optimize the operators view of the stage.
 <img width="984" height="784" alt="image" src="https://github.com/user-attachments/assets/6f69b47e-2ad6-4967-a7d9-81e28034232f" />
 
+An assemby with a singular fader (slide pot), its custom knob and spacer.
 <img width="758" height="784" alt="image" src="https://github.com/user-attachments/assets/a4941f13-9b66-4772-a38e-a3dc9ad7a369" />
 
-## BOM:
-### Bill of Materials (BOM)
-
+## Bill of Matrials (BOM):
 | Name | Purpose | Quantity | Total Cost (USD) | Distributor |
 | :--- | :--- | :---: | :--- | :--- |
 | [50pcs M3x6mm screws](https://www.aliexpress.com/item/32810852732.html) | Screws to put stuff together | 1 | $1.66 | Aliexpress |
