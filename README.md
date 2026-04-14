@@ -1,4 +1,4 @@
-<img width="1135" height="702" alt="Screenshot 2026-04-12 121722" src="https://github.com/user-attachments/assets/7b7fec5e-64f9-482e-9220-cc6866fbb59c" />
+[OpenLightingController-bom.csv](https://github.com/user-attachments/files/26693568/OpenLightingController-bom.csv)<img width="1135" height="702" alt="Screenshot 2026-04-12 121722" src="https://github.com/user-attachments/assets/7b7fec5e-64f9-482e-9220-cc6866fbb59c" />
 
 # OpenLightingController
 <img width="1229" height="711" alt="Screenshot 2026-04-12 121633" src="https://github.com/user-attachments/assets/e6171241-c9a3-421b-8512-987c8161afb5" />
@@ -18,3 +18,16 @@ I made this project due to my interest in these technologies and their applicati
 <img width="984" height="784" alt="image" src="https://github.com/user-attachments/assets/6f69b47e-2ad6-4967-a7d9-81e28034232f" />
 
 <img width="758" height="784" alt="image" src="https://github.com/user-attachments/assets/a4941f13-9b66-4772-a38e-a3dc9ad7a369" />
+
+## BOM:
+### Bill of Materials (BOM)
+
+| Name | Purpose | Quantity | Total Cost (USD) | Distributor |
+| :--- | :--- | :---: | :--- | :--- |
+| [50pcs M3x6mm screws](https://www.aliexpress.com/item/32810852732.html) | Screws to put stuff together | 1 | $1.66 | Aliexpress |
+| [Teensy 4.1 Microcontroller](https://core-electronics.com.au/teensy-4-1-headers.html) | The main MC for the board. | 1 | $40.38 | Core Electronics |
+| PCB | PCB for the main project board. | 5 | $23.60 | JLCPCB |
+| [MCRR25104X7RK0050](https://www.lcsc.com/product-detail/C2832506.html) | Multilayer ceramic capacitor | 10 | $1.00 | LCSC |
+| [1N4148 (DO-35)](https://www.lcsc.com/product-detail/C18195411.html) | Switching Diode for Keyswitches | 50 | $0.60 | LCSC |
+| [Mechanical Keyboard Switches (70pck)](https://www.aliexpress.com/item/1005007039675427.html) | The buttons on the board. | 1 | $10.82 | Aliexpress |
+| [Linear Slide Potentiometers (60mm throw)](https://www.lcsc.com/product-detail/C17555413.html) | The main faders on the board to control intensity + speed. | 10 | $19.60 | LCSC |
