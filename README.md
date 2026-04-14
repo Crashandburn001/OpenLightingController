@@ -1,4 +1,4 @@
-[OpenLightingController-bom.csv](https://github.com/user-attachments/files/26693568/OpenLightingController-bom.csv)<img width="1135" height="702" alt="Screenshot 2026-04-12 121722" src="https://github.com/user-attachments/assets/7b7fec5e-64f9-482e-9220-cc6866fbb59c" />
+<img width="1135" height="702" alt="Screenshot 2026-04-12 121722" src="https://github.com/user-attachments/assets/7b7fec5e-64f9-482e-9220-cc6866fbb59c" />
 
 # OpenLightingController
 <img width="1229" height="711" alt="Screenshot 2026-04-12 121633" src="https://github.com/user-attachments/assets/e6171241-c9a3-421b-8512-987c8161afb5" />
