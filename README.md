@@ -19,10 +19,11 @@ The keyswitch matrix used in the project.
 <img width="868" height="572" alt="image" src="https://github.com/user-attachments/assets/14ff0cf9-003d-4d29-a7e8-5ca38b7310b5" />
 
 Schematic for the faders.
-<img width="927" height="390" alt="image" src="https://github.com/user-attachments/assets/fb917773-8e17-4710-a75e-377c7397a23f" />
+<img width="905" height="329" alt="image" src="https://github.com/user-attachments/assets/834ea741-36be-4410-874a-218f609c5a74" />
+
 
 The overall view of the 2 Layer PCB with routing.
-<img width="1367" height="678" alt="image" src="https://github.com/user-attachments/assets/bcbc0b70-2228-42ac-90ed-4e2ce6abb3ca" />
+<img width="1392" height="673" alt="image" src="https://github.com/user-attachments/assets/d6f0cbf9-6070-4b67-9972-42430c40773f" />
 
 ## CAD Screenshots:
 
