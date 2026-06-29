@@ -37,6 +37,10 @@ The side pieces used to put the top of the board on an angle to optimize the ope
 An assemby with a singular fader (slide pot), its custom knob and spacer.
 <img width="758" height="784" alt="image" src="https://github.com/user-attachments/assets/a4941f13-9b66-4772-a38e-a3dc9ad7a369" />
 
+## Final Project Photo:
+<img width="3072" height="3072" alt="1782701641707-qdcmpe" src="https://github.com/user-attachments/assets/28880dd1-70db-4bb3-97c1-ccbf658a54d0" />
+
+
 ## Bill of Matrials (BOM):
 | Name | Purpose | Quantity | Total Cost (USD) | Distributor |
 | :--- | :--- | :---: | :--- | :--- |
